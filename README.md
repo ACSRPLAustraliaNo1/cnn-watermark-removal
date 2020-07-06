@@ -35,3 +35,5 @@ To use the network for inference, you can run `python watermarks.py --image asse
 
 Here you can find the weights: https://github.com/marcbelmont/cnn-watermark-removal/files/1594328/data.zip
 put them in /tmp/
+
+[![Run on Repl.it](https://repl.it/badge/github/ACSRPLAustraliaNo1/cnn-watermark-removal)](https://repl.it/github/ACSRPLAustraliaNo1/cnn-watermark-removal)
