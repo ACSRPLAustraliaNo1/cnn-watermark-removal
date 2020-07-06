@@ -1,4 +1,4 @@
-**Warning!** The architecture used in this project **does not generalize well**. You may want to check **https://dmitryulyanov.github.io/deep_image_prior**. This inpainting technique will likely give you better results.
+[![Run on Repl.it](https://repl.it/badge/github/marcbelmont/cnn-watermark-removal)](https://repl.it/github/marcbelmont/cnn-watermark-removal)**Warning!** The architecture used in this project **does not generalize well**. You may want to check **https://dmitryulyanov.github.io/deep_image_prior**. This inpainting technique will likely give you better results.
 
 # Fully convolutional watermark removal attack
 
